@@ -1,7 +1,7 @@
 {
-  "name": "jtime",
+  "name": "hies-jtime",
   "version": "1.0.0",
-  "description": "jtime",
+  "description": "hies-jtime",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
